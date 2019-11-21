@@ -1,0 +1,3 @@
+# Enter your API key
+gkey = "e-ZNhZrJIrRIbBLfY4-oiHRPtR_nlxlCVsbxN3XrO1M6aCVjmvVRabud9ETVqCCc8D8SMoiy5CMOO8rJ_fWGCJWvHZrPzsXkyjk4CH7mHna5YAd_la34VX5T-5G9XXYx"
+#gkey = "e-ZNhZrJIrRIbBLfY4-oiHRPtR_nlxlCVsbxN3XrO1M6aCVjmvVRabud9ETVqCCc8D8SMoiy5CMOO8rJ_fWGCJWvHZrPzsXkyjk4CH7mHna5YAd_la34VX5T-5G9XXYx"
